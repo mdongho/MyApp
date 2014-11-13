@@ -10,6 +10,7 @@ import android.widget.TextView;
  */
 public class DisplayMessageActivity extends BaseActivity {
 
+    public int x = 10;
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
